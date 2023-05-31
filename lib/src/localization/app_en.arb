@@ -1,0 +1,6 @@
+{
+  "appTitle": "hooks_playground",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
